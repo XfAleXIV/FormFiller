@@ -22,8 +22,6 @@ Los datos en la primera tabla son el Encabezado, son los datos generales que com
 La segunda tabla son todos los datos especificos de cada documento, cada fila representa un documento.
 
 **3.** Presiona el botón **Hacer Copia(s)** 
-    1. Item 3a
-    2. Item 3b
 
 ### Usa tu propia plantilla
 
