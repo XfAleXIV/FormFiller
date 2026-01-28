@@ -2,7 +2,7 @@
 ## Objetivo
 * Crear una herramienta para facilitar el rellenar documentos.
 
-## Emphasis
+## Énfasis
 
 Esta Herramienta es solo una **BETA**. Posee problemas, como el guardado incorrecto cuando se trabaja en la nube.
 
@@ -25,7 +25,7 @@ La segunda tabla son todos los datos especificos de cada documento, cada fila re
 
 ### Usa tu propia plantilla
 
-Si quieres usar esta herramienta con otras plantillas deberas escribir tus etiquetas en la plantilla y en la herramienta. Para hacerlo presiona el botón "_Config_". Aparecerán Una columna y fila amarilla con las etiquetas, agrega o reemplaza a tu gusto. Si necesitas más espacio, ve a la ultima fila e inserta otra. y Repetir los pasos de ls sección anterior.
+Si quieres usar esta herramienta con otras plantillas deberas escribir tus etiquetas en la plantilla y en la herramienta. Para hacerlo presiona el botón "_Config_". Aparecerán Una columna y fila amarilla con las etiquetas, agrega o reemplaza a tu gusto. Si necesitas más espacio, ve a la ultima fila de la tabla e inserta otra. Repite los pasos de la sección anterior.
 
 ## Consideraciones
 
