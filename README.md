@@ -11,7 +11,7 @@ Esta Herramienta es solo una **BETA**. Posee problemas, como el guardado incorre
 
 ### Ejemplo
 
-Como ejemplo usaremos el documento subido como "Gestion-de-Cobro.dotx - Ejemplo de Relleno". Esta plantilla tiene las etiquetas que reemplazaremos. 
+Como ejemplo usaremos el documento adjunto como "Gestion-de-Cobro.dotx - Ejemplo de Relleno". Esta plantilla tiene las etiquetas que reemplazaremos. 
 
 **1.** **Elige una plantilla** con el botón "Seleccionar Plantilla"
 
